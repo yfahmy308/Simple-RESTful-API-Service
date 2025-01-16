@@ -15,7 +15,6 @@ This is a simple RESTful API service built with Flask. It performs basic CRUD (C
 - `pip` package manager installed.
 
 ## Installation
-1. Clone the repository:
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 ## Install dependencies
